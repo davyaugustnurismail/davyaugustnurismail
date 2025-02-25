@@ -34,5 +34,8 @@
 - Email: davyaugustnurismail@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/davy-augustnur-ismail-0586912a7/)
 
-
 *Let's build something amazing together! 🚀*
+
+<div align="center">
+  ![snake animation](https://github.com/davyaugustnurismail/davyaugustnurismail/blob/output/github-contribution-grid-snake2.svg)
+</div>
