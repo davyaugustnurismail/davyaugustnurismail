@@ -24,7 +24,5 @@
 - Email: davyaugustnurismail@gmail.com
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/davyaugustnurismail)
 
-## 📈 GitHub Stats
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davyaugustnurismail&layout=compact&theme=radical)
 
 *Let's build something amazing together! 🚀*
