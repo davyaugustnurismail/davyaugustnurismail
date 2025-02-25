@@ -35,7 +35,5 @@
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/davy-augustnur-ismail-0586912a7/)
 
 *Let's build something amazing together! 🚀*
-
-<div align="center">
+  
 ![Snake animation](https://raw.githubusercontent.com/davyaugustnurismail/davyaugustnurismail/output/github-contribution-grid-snake-dark.svg)
-</div>
