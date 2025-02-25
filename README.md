@@ -26,9 +26,13 @@
 ### IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 📬 Contact Me
 - Email: davyaugustnurismail@gmail.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/davyaugustnurismail)
+- LinkedIn: [LinkedIn Profile]([https://linkedin.com/in/davyaugustnurismail](https://www.linkedin.com/in/davy-augustnur-ismail-0586912a7/)
 
 
 *Let's build something amazing together! 🚀*
