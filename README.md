@@ -32,7 +32,7 @@
 
 ## 📬 Contact Me
 - Email: davyaugustnurismail@gmail.com
-- LinkedIn: [LinkedIn Profile]([https://linkedin.com/in/davyaugustnurismail](https://www.linkedin.com/in/davy-augustnur-ismail-0586912a7/)
+- LinkedIn: [LinkedIn Profile]([https://linkedin.com/in/davyaugustnurismail](https://www.linkedin.com/in/davy-augustnur-ismail-0586912a7/))
 
 
 *Let's build something amazing together! 🚀*
