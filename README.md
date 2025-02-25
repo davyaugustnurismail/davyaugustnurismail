@@ -37,5 +37,5 @@
 *Let's build something amazing together! 🚀*
 
 <div align="center">
-  ![snake animation](https://github.com/davyaugustnurismail/davyaugustnurismail/blob/output/github-contribution-grid-snake2.svg)
+  ![Snake animation](https://raw.githubusercontent.com/davyaugustnurismail/davyaugustnurismail/output/github-contribution-grid-snake-dark.svg)
 </div>
